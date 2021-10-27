@@ -29,7 +29,8 @@
 }
 
 #carousel {
-  background-color: white;
+  background-color: #FEF9EF;
+  border-radius: 25px;
   text-align: center;
 }
 
