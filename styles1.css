@@ -28,6 +28,15 @@
   background-color: #FEE440;
 }
 
+#carousel {
+  background-color: white;
+}
+
+.carou {
+  height: 100px;
+  text-align: center;
+}
+
 .edu {
   background-color: #FEE440;
   font-family: "Enigmatic", sans-serif;
