@@ -149,6 +149,11 @@ h1 {
   color: black;
 }
 
+h3 {
+  font-family: "JaneAusten", sans-serif;
+  font-size: 2em;
+}
+
 h4 {
     padding: 2%;
 }
