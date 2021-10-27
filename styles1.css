@@ -1,0 +1,132 @@
+#title {
+  background-color: #FEF9EF;
+  font-family: "Enigmatic", sans-serif;
+}
+
+#work-exp {
+  background-color: #FF865E;
+  padding-top: 50px;
+  padding-bottom: 50px
+}
+
+#about {
+  background-color: #FEF9EF;
+}
+
+#welcome {
+  background-color: #FEE440;
+  margin: 0;
+  padding: 0;
+}
+
+#skills-interests {
+  background-color: #FF865E;
+  border-radius: 25px;
+}
+
+#edu {
+  background-color: #FEE440;
+}
+
+.edu {
+  background-color: #FEE440;
+  font-family: "Enigmatic", sans-serif;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+
+.about {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.body {
+  background-color: #FEE440;
+}
+
+.nav-item {
+  margin: 0, 18px;
+}
+
+.nav-link {
+  padding: 0;
+}
+
+.welcome {
+  background-color: #FEE440;
+  margin: 0;
+  padding: 0;
+}
+
+.white-fancy {
+  color: #FF865E;
+  font-family: "JaneAusten", sans-serif;
+  font-size: 100px;
+}
+
+.cumulus-paragraph {
+  color: #FF865E;
+  font-family: "Cumulus", sans-serif;
+  font-size: 2em;
+  position: relative;
+  right: 70px;
+  bottom: 25px;
+}
+
+.cumulus-blue {
+  color: #A2D2FF;
+  font-family: "JaneAusten", sans-serif;
+  font-size: 2em;
+}
+
+.inter {
+  padding: 0;
+}
+
+.work_head {
+  color: #FEF9EF;
+  font-family: "Enigmatic", sans-serif;
+  padding-bottom: 3%;
+}
+
+.work_head_black {
+  color: #000;
+  font-family: "Enigmatic", sans-serif;
+  margin: 0;
+  padding-top: 5px;
+}
+
+.other_work_text {
+  font-family: "Enigmatic", sans-serif;
+}
+
+.other {
+  margin-top: 10%;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.user-black {
+  color: black;
+}
+
+.white {
+  color: white;
+  font-family: "Enigmatic", sans-serif;
+}
+
+body {
+  background: #FEE440;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+  font-family: "Enigmatic", sans-serif;
+  font-size: 1.3em;
+}
