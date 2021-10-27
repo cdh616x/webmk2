@@ -29,13 +29,13 @@
 }
 
 #carousel {
-  background-color: #FEF9EF;
+  background-color: #A2D2FF;
   border-radius: 25px;
   text-align: center;
   padding-top: 10%;
   padding-bottom: 10%;
-  margin-left: 20%;
-  margin-right: 20%;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .carou {
