@@ -68,7 +68,6 @@ function greet() {
       $("#greeting").text("Good evening; happy Saturday!");
     }
   }
-
 }
 
 greet();
