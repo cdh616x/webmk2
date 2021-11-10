@@ -100,7 +100,9 @@
 }
 
 .carousel-item {
-  height: 350px;
+  height: auto;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .cumulus-blue {
