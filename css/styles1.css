@@ -80,7 +80,7 @@
 }
 
 #greetings h1 {
-  font-size: 7vw;
+  font-size: 8vw;
 }
 
 #greetings p {
@@ -145,6 +145,13 @@
 .white {
   color: white;
   font-family: "Enigmatic", sans-serif;
+}
+
+#about .crossing {
+  display: block;
+  margin: auto;
+  text-align: right;
+  height: 30vw;
 }
 
 body {
