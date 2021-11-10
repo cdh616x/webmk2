@@ -1,0 +1,157 @@
+#title {
+  background-color: #FEF9EF;
+  font-family: "Enigmatic", sans-serif;
+}
+
+#work-exp {
+  background-color: #FF865E;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 0 10% 0;
+}
+
+#about {
+  background-color: #FEF9EF;
+  margin: 0 5% 5%;
+}
+
+#welcome {
+  background-color: #FEE440;
+  margin: 0;
+  padding: 0;
+}
+
+#work-exp {
+  margin: 0 5% 5%;
+}
+
+#skills-interests {
+  background-color: #FF865E;
+  border-radius: 25px;
+}
+
+#edu {
+  background-color: #FEE440;
+}
+
+#carousel {
+  background-color: #A2D2FF;
+  text-align: center;
+  margin: 0 5% 5%;
+}
+
+#email .contact {
+  text-align: center;
+}
+
+#email .contact h2 {
+  color: #FF865E;
+  font-size: 5rem;
+  padding-top: 5%;
+}
+
+#email .contact a {
+  text-decoration: none;
+}
+
+.body {
+  background-color: #FEE440;
+}
+
+.nav-item {
+  margin: 0, 18px;
+}
+
+.nav-link {
+  padding: 0;
+}
+
+.welcome {
+  background-color: #FEE440;
+  margin: 0;
+  padding: 0;
+}
+
+.white-fancy {
+  color: #FF865E;
+  font-family: "Cumulus", sans-serif;
+  font-size: 100px;
+}
+
+.cumulus-paragraph {
+  color: #FF865E;
+  font-family: "Cumulus", sans-serif;
+  font-size: 2em;
+}
+
+.carousel-item {
+  height: 350px;
+}
+
+.cumulus-blue {
+  color: #A2D2FF;
+  font-family: "JaneAusten", sans-serif;
+  font-size: 2em;
+}
+
+.inter {
+  padding: 0;
+}
+
+.work_head {
+  color: #FEF9EF;
+  font-family: "Enigmatic", sans-serif;
+  padding-bottom: 3%;
+}
+
+.work_head_black {
+  color: #000;
+  font-family: "Enigmatic", sans-serif;
+  margin: 0;
+  padding-top: 5px;
+}
+
+.other_work_text {
+  font-family: "Enigmatic", sans-serif;
+}
+
+.other {
+  margin-top: 10%;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.user-black {
+  color: black;
+}
+
+.white {
+  color: white;
+  font-family: "Enigmatic", sans-serif;
+}
+
+body {
+  background: #FEE440;
+  font-family: "Enigmatic", sans-serif;
+}
+
+h1 {
+  color: black;
+}
+
+h3 {
+  font-family: "JaneAusten", sans-serif;
+  font-size: 2em;
+}
+
+h4 {
+    padding: 2%;
+}
+
+p {
+  color: black;
+  font-family: "Enigmatic", sans-serif;
+  font-size: 1.3em;
+}
