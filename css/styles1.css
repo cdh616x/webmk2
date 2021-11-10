@@ -81,7 +81,7 @@
 
 .white-fancy {
   color: #FF865E;
-  font-family: "JaneAusten", sans-serif;
+  font-family: "Cumulus", sans-serif;
   font-size: 100px;
 }
 
@@ -89,9 +89,6 @@
   color: #FF865E;
   font-family: "Cumulus", sans-serif;
   font-size: 2em;
-  position: relative;
-  right: 70px;
-  bottom: 25px;
 }
 
 .carousel-item {
