@@ -179,3 +179,7 @@ p {
   font-family: "Enigmatic", sans-serif;
   font-size: 1.3em;
 }
+
+.bottom {
+  margin-bottom: 5%;
+}
