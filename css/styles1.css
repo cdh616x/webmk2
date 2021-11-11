@@ -12,7 +12,12 @@
 
 #about {
   background-color: #FEF9EF;
+  border-radius: 25px;
   margin: 0 5% 5%;
+}
+
+#about .jane {
+  font-family: "JaneAusten", sans-serif;
 }
 
 #welcome {
@@ -22,6 +27,7 @@
 }
 
 #work-exp {
+  border-radius: 25px;
   margin: 0 5% 5%;
 }
 
@@ -36,8 +42,13 @@
 
 #carousel {
   background-color: #A2D2FF;
+  border-radius: 25px;
   text-align: center;
   margin: 0 5% 5%;
+}
+
+#carousel .carousel-inner {
+  border-radius: 25px;
 }
 
 .carou {
@@ -145,7 +156,7 @@
 }
 
 .white {
-  color: white;
+  color: #FEF9EF;
   font-family: "Enigmatic", sans-serif;
 }
 
