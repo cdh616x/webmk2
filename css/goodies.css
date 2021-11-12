@@ -181,12 +181,15 @@ h1 {
 }
 
 h3 {
-  font-family: "JaneAusten", sans-serif;
+  text-align: center;
+  font-family: "Enigmatic", sans-serif;
   font-size: 2em;
 }
 
 h4 {
-    padding: 2%;
+    text-align: center;
+    font-family: "Enigmatic", sans-serif;
+    font-size: 1.5em;
 }
 
 p {
@@ -197,8 +200,18 @@ p {
 
 #music .resize-small {
   padding-left: 38.5%;
+  margin-bottom: 2%;
 }
 
 .col {
   width: 33%;
+}
+
+a {
+  color: #FF865E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #A2D2FF;
 }
