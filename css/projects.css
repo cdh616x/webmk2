@@ -37,3 +37,12 @@ body {
   margin-left: 10%;
   margin-right: 10%;
 }
+
+iframe {
+  height: 750px;
+  width: 100%;
+  resize: both;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 2%;
+}
