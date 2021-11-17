@@ -88,7 +88,7 @@
 }
 
 .nav-item {
-  margin: 0, 18px;
+  margin: 0;
 }
 
 .nav-link {
@@ -200,4 +200,42 @@ p {
   color: black;
   font-family: "Enigmatic", sans-serif;
   font-size: 1.3em;
+}
+
+.row {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.col {
+  width: 33%;
+}
+
+.card {
+  color: #FBF3E4;
+  background-color: #105652;
+  margin-bottom: 10%;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-body {
+  text-align: justify;
+}
+
+.cb2 {
+  text-align: center;
+}
+
+.cb3 {
+  text-align: right;
+}
+
+html, body {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
