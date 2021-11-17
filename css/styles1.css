@@ -11,19 +11,30 @@
 }
 
 #about {
-  background-color: #FEF9EF;
+  background-color: #FBF3E4;
   border-radius: 25px;
+  padding: 5%;
   margin: 0 5% 5%;
 }
 
 #about .jane {
+  color: #B91646;
   font-family: "JaneAusten", sans-serif;
 }
 
 #welcome {
-  background-color: #FEE440;
+  background-color: #DFD8CA;
   margin: 0;
   padding: 0;
+}
+
+.github {
+  color: #105652;
+  text-align: center;
+}
+
+.github:hover {
+  color: #B91646;
 }
 
 #work-exp {
@@ -41,7 +52,7 @@
 }
 
 #carousel {
-  background-color: #A2D2FF;
+  background-color: #B91646;
   border-radius: 25px;
   text-align: center;
   margin: 0 5% 5%;
@@ -73,7 +84,7 @@
 }
 
 .body {
-  background-color: #FEE440;
+  background-color: #DFD8CA;
 }
 
 .nav-item {
@@ -85,7 +96,7 @@
 }
 
 .welcome {
-  background-color: #FEE440;
+  background-color: #DFD8CA;
   margin: 0;
   padding: 0;
 }
@@ -99,13 +110,13 @@
 }
 
 .white-fancy {
-  color: #FF865E;
+  color: #105652;
   font-family: "Cumulus", sans-serif;
   font-size: 100px;
 }
 
 .cumulus-paragraph {
-  color: #FF865E;
+  color: #105652;
   font-family: "Cumulus", sans-serif;
   font-size: 2em;
 }
@@ -168,7 +179,7 @@
 }
 
 body {
-  background: #FEE440;
+  background: #DFD8CA;
   font-family: "Enigmatic", sans-serif;
 }
 

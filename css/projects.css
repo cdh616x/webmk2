@@ -24,7 +24,7 @@
 }
 
 body {
-  background-color: #FEE440;
+  background-color: #DFD8CA;
 }
 
 #projects .bottom {
@@ -32,17 +32,38 @@ body {
 }
 
 #projects #links {
-  background-color: #FEF9EF;
+  background-color: #FBF3E4;
   font-family: "Enigmatic", sans-serif;
   margin-left: 10%;
   margin-right: 10%;
 }
 
-iframe {
-  height: 750px;
-  width: 100%;
-  resize: both;
+#projects i {
+  height: 10px;
+}
+
+#links {
+  color: #105652;
+}
+
+#links a {
+  color: #105652;
+}
+
+#links a:hover {
+  color: #B91646;
+}
+
+#img img {
   padding-left: 5%;
   padding-right: 5%;
-  margin-bottom: 2%;
+}
+
+i {
+  margin-top: 5%;
+  color: #105652;
+}
+
+i:hover {
+  color: #B91646;
 }
