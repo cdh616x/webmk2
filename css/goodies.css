@@ -228,10 +228,18 @@ a:hover {
   color: #B91646;
 }
 
+#bio .bio {
+  background-color: #FBF3E4;
+}
+
 html, body {
     width: 100%;
     height: auto;
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
+}
+
+.row {
+  margin-bottom: 5%;
 }
