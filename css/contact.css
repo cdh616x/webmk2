@@ -49,7 +49,7 @@
 }
 
 #email .contact h2 {
-  color: #FF865E;
+  color: #105652;
   font-size: 5rem;
   padding-top: 5%;
 }
@@ -59,7 +59,7 @@
 }
 
 .body {
-  background-color: #FEE440;
+  background-color: #DFD8CA;
 }
 
 .nav-item {
@@ -71,7 +71,7 @@
 }
 
 .welcome {
-  background-color: #FEE440;
+  background-color: #DFD8CA;
   margin: 0;
   padding: 0;
 }
@@ -137,7 +137,7 @@
 }
 
 body {
-  background: #FEE440;
+  background: #DFD8CA;
   font-family: "Enigmatic", sans-serif;
 }
 
