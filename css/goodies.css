@@ -168,12 +168,12 @@
 }
 
 body {
-  background: #FEE440;
+  background: #DFD8CA;
   font-family: "Enigmatic", sans-serif;
 }
 
 h1 {
-  color: #FF865E;
+  color: #105652;
   text-align: center;
   font-family: "Enigmatic", sans-serif;
   padding-top: 5%;
@@ -198,9 +198,21 @@ p {
   font-size: 1.3em;
 }
 
-#music .resize-small {
-  padding-left: 38.5%;
-  margin-bottom: 2%;
+#bio {
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: justify;
+}
+
+#music img {
+}
+
+#music .sixes {
+  height: 50%;
+}
+
+#music {
+  color: #105652;
 }
 
 .col {
@@ -208,10 +220,18 @@ p {
 }
 
 a {
-  color: #FF865E;
+  color: #105652;
   text-decoration: none;
 }
 
 a:hover {
-  color: #A2D2FF;
+  color: #B91646;
+}
+
+html, body {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
